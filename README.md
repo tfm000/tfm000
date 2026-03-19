@@ -22,7 +22,7 @@ I hold a BSc Financial Mathematics & Statistics from LSE and an MSc Data Science
  
  🔹 Libraries: `JAX` · `PyTorch` · `NumPy` · `SciPy` · `statsmodels` · `pandas` · `scikit-learn` · `Streamlit`
  
- 🔹 AI/ML: `Deep Learning` · `Bayesian ML/DL` · `Mamba Models` · `Transformer Models` · `Computer Vision`
+ 🔹 AI/ML: `Deep Learning` · `Bayesian ML/DL` · `Reinforcement Learning` · `Mamba Models` · `Transformer Models` · `Computer Vision`
 
 ---
 
